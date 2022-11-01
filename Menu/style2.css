@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    column-gap: 21px;
+    padding-left: 12px;
+    width: 360px;
+    font-size: 21px;
+    background-color: black;
+    color: white;
+}
+
+.container div:hover {
+    background-color: rgba(150, 141, 141, 0.686);
+    cursor: pointer;
+}
+
+h2 {
+    padding-left: 3px;
+}
